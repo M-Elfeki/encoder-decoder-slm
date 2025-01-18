@@ -31,6 +31,7 @@ Recent trends in language modeling have favored large decoder-only architectures
 - Vision-text alignment through projection layers
 
 ## Repository Structure
+```
 efficient-slm/
 ├── core/
 │   ├── modeling/               # Core architecture implementation
@@ -40,6 +41,7 @@ efficient-slm/
 ├── training/                   # Training scripts and utilities
 ├── evaluation/                # Evaluation scripts
 └── examples/                  # Usage examples and notebooks
+```
 
 ## Performance
 
